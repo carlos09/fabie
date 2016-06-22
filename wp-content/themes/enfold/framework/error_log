@@ -1,0 +1,1 @@
+[14-Jun-2016 14:30:17 America/Chicago] PHP Fatal error:  Call to undefined function do_action() in /home2/fabiola/public_html/wp-content/themes/enfold/framework/avia_framework.php on line 28

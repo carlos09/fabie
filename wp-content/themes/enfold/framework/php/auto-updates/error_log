@@ -1,0 +1,1 @@
+[14-Jun-2016 14:50:45 America/Chicago] PHP Fatal error:  Call to undefined function current_theme_supports() in /home2/fabiola/public_html/wp-content/themes/enfold/framework/php/auto-updates/auto-updates.php on line 6
